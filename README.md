@@ -17,6 +17,20 @@ SETUP :
 
  And other basic things. Read [This](https://github.com/Junaid433/hecker-chk#:~:text=README.md-,Hecker%2DCHK,-Simple%20CC%20Checker) for more help
  ```
+ 
+ Features : 
+ 
+ ``
+ Mass cc check with all gates.
+ Mass sk check.
+ Horrorscope lookup.
+ Bin lookup.
+ Iban lookup.
+ Ban someone by userid.
+ Authorize chat with chatid or by typing /authorize.
+ 
+ ``
+ 
  Known Bugs: 
  
  ```
