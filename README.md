@@ -41,7 +41,7 @@ Some comments :
 NEED HELP ?  
 
 You can contact me at telegram any time.
-+[@fakehecker](https://t.me/fakehecker)
-
+1 . Telegram : [@fakehecker](https://t.me/fakehecker)
+    - Facebook : [Junaid Rahman](https://www.facebook.com/jnaid.rahman.im/)
 
 
