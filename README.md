@@ -3,7 +3,7 @@ A Telegram cc checker bot with some extra added features and working gates.
 
 So, This basically is [Hecker-CHK.](https://github.com/Junaid433/hecker-chk) With a few extra added features.
 
-##SETUP
+SETUP : 
 ```
  Set Webhook to bot.php
 
