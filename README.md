@@ -26,6 +26,9 @@ SETUP :
 Some Faqs:
 
 ```
+Q : Can I host it on replit or own server?
+>A : Yes, You can anywhere. But might have some issues with heroku, vercel sadly.
+
 Q : Bot Isn't Capturing any message
 > A :  Lets Take, Gates/chk.php for a example. Look at the $msg variable. It will capture anything between `<br>Result: and </span><br>`. Didn't get it? OK! Lets think your cc checker api outputs a result : CC : 12345 <br>Result: Insufficient Funds</span><br> Bot output would be Insufficient Funds. You can configure $msg variable to capture any other formats too
 
