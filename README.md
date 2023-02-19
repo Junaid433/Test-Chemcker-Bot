@@ -28,6 +28,7 @@ SETUP :
  Iban lookup.
  Ban someone by userid.
  Authorize chat with chatid or by typing /authorize.
+ Reply to check cc
  
  ```
  
