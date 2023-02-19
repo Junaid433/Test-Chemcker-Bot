@@ -17,6 +17,11 @@ SETUP :
 
  And other basic things. Read [This](https://github.com/Junaid433/hecker-chk#:~:text=README.md-,Hecker%2DCHK,-Simple%20CC%20Checker) for more help
  
+ Known Bugs: 
+ 
+ ```
+ Processes the same cc multiple times if you input more than 4 cards
+ Theres a lot more for sure, which are unknown.
  ```
 Some Faqs:
 
