@@ -38,7 +38,7 @@ Some comments :
 
 > I do not publish updates of my codes. Once its outdated, you either leave it or fix it yourself.
 
-I NEED HELP ! 
+NEED HELP ?  
 
 You can contact me at telegram any time.
 +[@fakehecker](https://t.me/fakehecker)
