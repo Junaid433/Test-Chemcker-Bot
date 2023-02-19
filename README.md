@@ -25,8 +25,23 @@ Q : Bot Isn't Capturing any message
 > A :  Lets Take, Gates/chk.php for a example. Look at the $msg variable. It will capture anything between `<br>Result: and </span><br>`. Didn't get it? OK! Lets think your cc checker api outputs a result : CC : 12345 <br>Result: Insufficient Funds</span><br> Bot output would be Insufficient Funds. You can configure $msg variable to capture any other formats too
 
 Q : Bot isn't replying
-A : Most Probably webhook not set. You messed with codes ( already a mess fml )
+> A : Most Probably webhook not set. You messed with codes ( already a mess fml )
 
 Q: Bot not editing message
-A : editmessagetext function related issues as stated above.
+> A : editmessagetext function related issues as stated above.
 ```
+Some comments :
+
+> I know i didn't did the work great.
+
+> I personally don't like databases. But they are really important tbh.
+
+> I do not publish updates of my codes. Once its outdated, you either leave it or fix it yourself.
+
+I NEED HELP ! 
+
+You can contact me at telegram any time.
++[@fakehecker](https://t.me/fakehecker)
+
+
+
