@@ -40,7 +40,7 @@ Some comments :
 
 NEED HELP ?  
 
-You can contact me at telegram any time.
+You can contact me any time.
 
     Telegram : @fakehecker (https://t.me/fakehecker)
 
