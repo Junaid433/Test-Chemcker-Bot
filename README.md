@@ -15,6 +15,6 @@ SETUP :
 
  You do not need to setup any gates ( for now ) as the gates are live since 6 months. (i stopped maintaining the gates , soon you will need  your own gates )
 
- And other basic things. Read [ This ](https://github.com/Junaid433/hecker-chk#:~:text=README.md-,Hecker%2DCHK,-Simple%20CC%20Checker) for more help
+ And other basic things. Read [This](https://github.com/Junaid433/hecker-chk#:~:text=README.md-,Hecker%2DCHK,-Simple%20CC%20Checker) for more help
  
  ```
