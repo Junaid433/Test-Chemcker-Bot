@@ -64,7 +64,7 @@ NEED HELP ?
 
 You can contact me any time.
 
-    Telegram : @fakehecker (https://t.me/fakehecker)
+    Telegram : @CHITNGE55 (https://t.me/fakehecker)
 
     Facebook : Junaid Rahman (https://www.facebook.com/jnaid.rahman.im/)
 
